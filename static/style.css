@@ -122,6 +122,24 @@ h3 {
     margin-bottom: var(--space-md);
 }
 
+/* Anchor links */
+a.zola-anchor {
+    color: var(--atomic-orange);
+    opacity: 0;
+    margin-left: var(--space-sm);
+    border-bottom: none;
+    transition: opacity 0.2s ease;
+}
+
+h2:hover a.zola-anchor,
+h3:hover a.zola-anchor {
+    opacity: 1;
+}
+
+a.zola-anchor:hover {
+    border-bottom: none;
+}
+
 p {
     margin-bottom: var(--space-md);
 }

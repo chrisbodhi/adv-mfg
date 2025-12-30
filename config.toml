@@ -4,3 +4,6 @@ title = "Adaptive Manufacturing Systems"
 compile_sass = false
 build_search_index = false
 generate_feeds = false
+
+[markdown]
+insert_anchor_links = "right"
