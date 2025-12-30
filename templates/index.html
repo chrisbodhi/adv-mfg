@@ -1,3 +1,4 @@
+{% import "macros.html" as macros %}
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -12,9 +13,17 @@
     <link rel="stylesheet" href="{{ get_url(path='style.css') }}">
 </head>
 <body>
-    <article class="container">
-        <h1>{{ section.title }}</h1>
-        {{ section.content | safe }}
-    </article>
+    <div class="page">
+        <aside class="toc">
+            <nav>
+                <h2>Contents</h2>
+                {{ macros::toc_list(items=section.toc) }}
+            </nav>
+        </aside>
+        <article class="container">
+            <h1>{{ section.title }}</h1>
+            {{ section.content | safe }}
+        </article>
+    </div>
 </body>
 </html>

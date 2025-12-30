@@ -1,0 +1,12 @@
+{% macro toc_list(items) %}
+<ul>
+    {% for item in items %}
+    <li>
+        <a href="#{{ item.id }}">{{ item.title }}</a>
+        {% if item.children %}
+            {{ self::toc_list(items=item.children) }}
+        {% endif %}
+    </li>
+    {% endfor %}
+</ul>
+{% endmacro %}

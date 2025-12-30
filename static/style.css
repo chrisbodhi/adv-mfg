@@ -83,10 +83,85 @@ body {
 }
 
 /* Layout */
-.container {
+.page {
     max-width: var(--content-width);
     margin: 0 auto;
+}
+
+.container {
     padding: var(--space-xl) var(--space-lg);
+}
+
+/* TOC - hidden on small screens */
+.toc {
+    display: none;
+}
+
+/* Widescreen: show TOC in left sidebar */
+@media (min-width: 1200px) {
+    .page {
+        display: grid;
+        grid-template-columns: 240px var(--content-width);
+        gap: var(--space-xl);
+        max-width: none;
+        justify-content: center;
+    }
+
+    .toc {
+        display: block;
+        position: sticky;
+        top: var(--space-lg);
+        align-self: start;
+        max-height: calc(100vh - var(--space-xl));
+        overflow-y: auto;
+        padding: var(--space-xl) 0;
+        padding-right: var(--space-md);
+    }
+
+    .toc h2 {
+        font-family: var(--font-display);
+        font-size: var(--text-sm);
+        font-weight: 600;
+        letter-spacing: 0.1em;
+        text-transform: uppercase;
+        color: var(--slate);
+        margin: 0 0 var(--space-md) 0;
+        padding: 0;
+        border: none;
+    }
+
+    .toc ul {
+        list-style: none;
+        padding: 0;
+        margin: 0;
+    }
+
+    .toc li {
+        margin-bottom: var(--space-xs);
+    }
+
+    .toc a {
+        font-family: var(--font-body);
+        font-size: var(--text-sm);
+        color: var(--slate);
+        border-bottom: none;
+        display: block;
+        padding: var(--space-xs) 0;
+        transition: color 0.2s ease;
+    }
+
+    .toc a:hover {
+        color: var(--stellar-teal);
+    }
+
+    /* Nested lists (h3s under h2s) */
+    .toc ul ul {
+        padding-left: var(--space-md);
+    }
+
+    .toc ul ul a {
+        font-size: var(--text-xs);
+    }
 }
 
 /* Typography */
