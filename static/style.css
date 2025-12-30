@@ -1,0 +1,214 @@
+/*
+ * Tomorrow's Horizon Design System
+ * Extracted from style-guide.html
+ * Last synced: 2025-12-30
+ */
+
+:root {
+    /* Color Palette: Space Age Optimism */
+    --cream: #faf7f0;
+    --warm-white: #fff8ee;
+    --paper: #f5efe4;
+
+    --midnight: #1a1a2e;
+    --ink: #2d2d44;
+    --slate: #4a4a68;
+
+    --atomic-orange: #e85d04;
+    --solar-amber: #f7931e;
+    --horizon-coral: #ff6b4a;
+
+    --stellar-teal: #00a8a8;
+    --sky-cyan: #4ecdc4;
+    --deep-space: #0d7377;
+
+    --accent-gold: #d4a84b;
+
+    /* Typography Scale */
+    --font-display: "Anybody", sans-serif;
+    --font-body: "Source Serif 4", Georgia, serif;
+
+    --text-xs: 0.75rem;
+    --text-sm: 0.875rem;
+    --text-base: 1.125rem;
+    --text-lg: 1.25rem;
+    --text-xl: 1.5rem;
+    --text-2xl: 2rem;
+    --text-3xl: 2.75rem;
+    --text-4xl: 4rem;
+    --text-5xl: 6rem;
+
+    /* Spacing */
+    --space-xs: 0.25rem;
+    --space-sm: 0.5rem;
+    --space-md: 1rem;
+    --space-lg: 2rem;
+    --space-xl: 4rem;
+    --space-2xl: 8rem;
+
+    /* Layout */
+    --content-width: 42rem;
+    --wide-width: 64rem;
+
+    /* Effects */
+    --radius-sm: 4px;
+    --radius-md: 8px;
+    --radius-lg: 16px;
+    --radius-pill: 100px;
+
+    --shadow-soft: 0 4px 20px rgba(26, 26, 46, 0.08);
+    --shadow-lifted: 0 8px 40px rgba(26, 26, 46, 0.12);
+}
+
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-size: 16px;
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: var(--font-body);
+    font-size: var(--text-base);
+    line-height: 1.7;
+    color: var(--ink);
+    background: var(--cream);
+    -webkit-font-smoothing: antialiased;
+}
+
+/* Layout */
+.container {
+    max-width: var(--content-width);
+    margin: 0 auto;
+    padding: var(--space-xl) var(--space-lg);
+}
+
+/* Typography */
+h1 {
+    font-family: var(--font-display);
+    font-size: var(--text-3xl);
+    font-weight: 800;
+    line-height: 1.1;
+    letter-spacing: -0.03em;
+    color: var(--midnight);
+    margin-bottom: var(--space-sm);
+}
+
+h2 {
+    font-family: var(--font-display);
+    font-size: var(--text-2xl);
+    font-weight: 600;
+    line-height: 1.2;
+    letter-spacing: -0.02em;
+    color: var(--midnight);
+    margin-top: var(--space-xl);
+    margin-bottom: var(--space-md);
+    padding-bottom: var(--space-sm);
+    border-bottom: 2px solid var(--midnight);
+}
+
+h3 {
+    font-family: var(--font-display);
+    font-size: var(--text-lg);
+    font-weight: 600;
+    color: var(--midnight);
+    margin-top: var(--space-lg);
+    margin-bottom: var(--space-md);
+}
+
+p {
+    margin-bottom: var(--space-md);
+}
+
+strong {
+    color: var(--midnight);
+    font-weight: 600;
+}
+
+em {
+    font-style: italic;
+}
+
+/* Lists */
+ul {
+    padding-left: var(--space-lg);
+    margin-bottom: var(--space-md);
+}
+
+li {
+    margin-bottom: var(--space-sm);
+}
+
+/* Horizontal rules */
+hr {
+    border: none;
+    height: 2px;
+    background: linear-gradient(
+        90deg,
+        transparent,
+        var(--atomic-orange),
+        transparent
+    );
+    margin: var(--space-xl) 0;
+}
+
+/* Links */
+a {
+    color: var(--stellar-teal);
+    text-decoration: none;
+    border-bottom: 1px solid transparent;
+    transition: border-color 0.2s ease;
+}
+
+a:hover {
+    border-bottom-color: var(--stellar-teal);
+}
+
+/* Subtitle styling for first h2 */
+h1 + h2 {
+    font-family: var(--font-body);
+    font-size: var(--text-lg);
+    font-weight: 400;
+    font-style: italic;
+    color: var(--slate);
+    border-bottom: none;
+    margin-top: 0;
+    padding-bottom: 0;
+    margin-bottom: var(--space-lg);
+}
+
+/* Core question styling */
+p strong:first-child:contains("Core question") {
+    color: var(--stellar-teal);
+}
+
+/* Section labels (Theory, Reading, Discussion, etc.) */
+p > strong:only-child {
+    font-family: var(--font-display);
+    font-size: var(--text-sm);
+    font-weight: 600;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    color: var(--atomic-orange);
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+    .container {
+        padding: var(--space-lg);
+    }
+
+    h1 {
+        font-size: var(--text-2xl);
+    }
+
+    h2 {
+        font-size: var(--text-xl);
+    }
+}
