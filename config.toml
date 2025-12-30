@@ -1,0 +1,6 @@
+# For GitHub Pages project site: https://chrisbodhi.github.io/adv-mfg/
+base_url = "https://chrisbodhi.github.io/adv-mfg"
+title = "Adaptive Manufacturing Systems"
+compile_sass = false
+build_search_index = false
+generate_feeds = false

@@ -1,4 +1,6 @@
-# Adaptive Manufacturing Systems: Theory and Practice
++++
+title = "Adaptive Manufacturing Systems: Theory and Practice"
++++
 
 ## An Interdisciplinary Seminar
 
@@ -395,7 +397,7 @@ No specific technical background required. The seminar assumes intellectual curi
 
 ### Week 16: The Moral Economy of Making
 
-**Core question**: What is manufacturing _for_?
+**Core question**: What is manufacturing *for*?
 
 **Theory**:
 
@@ -407,20 +409,20 @@ No specific technical background required. The seminar assumes intellectual curi
 
 **Reading**:
 
-- Pope Leo XIII, _Rerum Novarum_ (1891), selections—the original Catholic engagement with industrial capitalism
-- Pope John Paul II, _Laborem Exercens_ (1981), sections on the priority of labor over capital and the meaning of work
-- Pope Francis, _Laudato Si'_ (2015), chapter 3 on technology and chapter 5 on integral ecology
-- E.F. Schumacher, _Small Is Beautiful_, chapter on "Buddhist Economics" (yes, Buddhist—but deeply compatible; Schumacher was Catholic)
+- Pope Leo XIII, *Rerum Novarum* (1891), selections—the original Catholic engagement with industrial capitalism
+- Pope John Paul II, *Laborem Exercens* (1981), sections on the priority of labor over capital and the meaning of work
+- Pope Francis, *Laudato Si'* (2015), chapter 3 on technology and chapter 5 on integral ecology
+- E.F. Schumacher, *Small Is Beautiful*, chapter on "Buddhist Economics" (yes, Buddhist—but deeply compatible; Schumacher was Catholic)
 
 **Optional deeper reading**:
 
-- Alasdair MacIntyre, _After Virtue_, chapter on practices and institutions
-- Wendell Berry, essays on economics and locality (_What Are People For?_ or _The Art of the Commonplace_)
+- Alasdair MacIntyre, *After Virtue*, chapter on practices and institutions
+- Wendell Berry, essays on economics and locality (*What Are People For?* or *The Art of the Commonplace*)
 - Dorothy Day's writings on work and dignity
 
 **Fiction**:
 
-- Walter M. Miller Jr., _A Canticle for Leibowitz_, Part 1 ("Fiat Homo")—monks preserving technical knowledge after collapse; the relationship between making, meaning, and continuity
+- Walter M. Miller Jr., *A Canticle for Leibowitz*, Part 1 ("Fiat Homo")—monks preserving technical knowledge after collapse; the relationship between making, meaning, and continuity
 
 **Discussion questions**:
 

@@ -1,0 +1,468 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Adaptive Manufacturing Systems</title>
+    <style>
+        body {
+            font-family: Georgia, 'Times New Roman', serif;
+            line-height: 1.7;
+            max-width: 750px;
+            margin: 0 auto;
+            padding: 2rem;
+            color: #333;
+        }
+        h1 {
+            font-size: 2rem;
+            margin-bottom: 0.5rem;
+        }
+        h2 {
+            font-size: 1.5rem;
+            margin-top: 2.5rem;
+            border-bottom: 1px solid #ccc;
+            padding-bottom: 0.5rem;
+        }
+        h3 {
+            font-size: 1.2rem;
+            margin-top: 2rem;
+        }
+        hr {
+            border: none;
+            border-top: 1px solid #ddd;
+            margin: 2rem 0;
+        }
+        ul {
+            padding-left: 1.5rem;
+        }
+        li {
+            margin-bottom: 0.5rem;
+        }
+        strong {
+            color: #111;
+        }
+        p {
+            margin: 1rem 0;
+        }
+    </style>
+</head>
+<body>
+    <h2 id="an-interdisciplinary-seminar">An Interdisciplinary Seminar</h2>
+<p><strong>Course Description</strong></p>
+<p>This seminar explores the emerging paradigm of adaptive manufacturing—production systems designed for reconfiguration, resilience, and distributed coordination rather than scale and standardization. Drawing on control theory, operations research, economics, and design theory, students will develop a conceptual toolkit for understanding why manufacturing paradigms shift, what enables new paradigms to survive, and how adaptive systems might reshape the geography and economics of production.</p>
+<p>The course pairs theoretical foundations with primary sources, fiction, and case studies. Students will engage with both the "what" (technical mechanisms) and the "why" (economic and social forces that make paradigms viable or obsolete).</p>
+<p><strong>Prerequisites</strong></p>
+<p>No specific technical background required. The seminar assumes intellectual curiosity across disciplines and comfort with ambiguity. Students from engineering, business, design, policy, and the humanities are equally welcome.</p>
+<hr />
+<h2 id="unit-1-why-paradigms-shift-weeks-1-3">Unit 1: Why Paradigms Shift (Weeks 1-3)</h2>
+<h3 id="week-1-the-history-of-manufacturing-transitions">Week 1: The History of Manufacturing Transitions</h3>
+<p><strong>Core question:</strong> What causes the center of manufacturing to relocate?</p>
+<p><strong>Theory:</strong></p>
+<ul>
+<li>Technological revolutions as paradigm shifts, not incremental improvement</li>
+<li>The relationship between enabling technologies and geographic advantage</li>
+<li>Path dependence and why incumbents struggle to adapt</li>
+</ul>
+<p><strong>Reading:</strong></p>
+<ul>
+<li>Suzanne Berger, <em>Making in America</em>, chapters 1-3</li>
+<li>William Janeway, <em>Doing Capitalism in the Innovation Economy</em>, chapter on speculation and technological transitions</li>
+</ul>
+<p><strong>Discussion:</strong></p>
+<ul>
+<li>Interchangeable parts → American ascendance</li>
+<li>Containerization + JIT + telecom → Chinese ascendance</li>
+<li>What's next?</li>
+</ul>
+<hr />
+<h3 id="week-2-the-failure-modes-of-centralized-systems">Week 2: The Failure Modes of Centralized Systems</h3>
+<p><strong>Core question:</strong> Why do optimized systems become fragile?</p>
+<p><strong>Theory:</strong></p>
+<ul>
+<li>Legibility and its costs</li>
+<li>Metis (local, practical knowledge) vs. techne (formal, transferable knowledge)</li>
+<li>Why central planning fails at the edges</li>
+</ul>
+<p><strong>Reading:</strong></p>
+<ul>
+<li>James C. Scott, <em>Seeing Like a State</em>, chapters 1, 2, 9, and 10</li>
+<li>Donella Meadows, <em>Thinking in Systems</em>, chapters 1-3</li>
+</ul>
+<p><strong>Discussion:</strong></p>
+<ul>
+<li>Mass production as high-modernist project</li>
+<li>What knowledge lives in a factory that can't be written down?</li>
+<li>The vulnerability of "designed in California, made in China"</li>
+</ul>
+<hr />
+<h3 id="week-3-resilience-and-networked-production">Week 3: Resilience and Networked Production</h3>
+<p><strong>Core question:</strong> What's the alternative to centralized optimization?</p>
+<p><strong>Theory:</strong></p>
+<ul>
+<li>Resilient communities as productive units</li>
+<li>Networked vs. hierarchical organization</li>
+<li>Degradation modes: graceful vs. catastrophic</li>
+</ul>
+<p><strong>Reading:</strong></p>
+<ul>
+<li>John Robb, <em>Brave New War</em>, chapters on resilient communities</li>
+<li>Speculative Technology, "Leapfrogging Industrial Production" (and related essays)</li>
+</ul>
+<p><strong>Fiction:</strong></p>
+<ul>
+<li>Cory Doctorow, <em>Walkaway</em>, Part 1</li>
+</ul>
+<p><strong>Discussion:</strong></p>
+<ul>
+<li>The minimum viable unit of production</li>
+<li>What can resilient communities actually make?</li>
+<li>The role of crisis in paradigm adoption</li>
+</ul>
+<hr />
+<h2 id="unit-2-the-grammar-of-adaptive-systems-weeks-4-7">Unit 2: The Grammar of Adaptive Systems (Weeks 4-7)</h2>
+<h3 id="week-4-control-theory-fundamentals">Week 4: Control Theory Fundamentals</h3>
+<p><strong>Core question:</strong> How do machines behave?</p>
+<p><strong>Theory:</strong></p>
+<ul>
+<li>Open-loop vs. closed-loop control</li>
+<li>Feedback, stability, oscillation</li>
+<li>PID control as the universal kludge</li>
+<li>What happens when controlled systems interact</li>
+</ul>
+<p><strong>Reading:</strong></p>
+<ul>
+<li>Karl Åström and Richard Murray, <em>Feedback Systems</em>, chapters 1-3 (available free online)</li>
+<li>Historical: James Watt's governor as paradigm case</li>
+</ul>
+<p><strong>Lab/Exercise:</strong></p>
+<ul>
+<li>Simulate a simple feedback system; observe stability and instability</li>
+<li>Discuss: what aspects of a manufacturing cell need closed-loop control?</li>
+</ul>
+<hr />
+<h3 id="week-5-queuing-theory-and-the-flow-of-work">Week 5: Queuing Theory and the Flow of Work</h3>
+<p><strong>Core question:</strong> How do jobs move through a system?</p>
+<p><strong>Theory:</strong></p>
+<ul>
+<li>Arrival rates, service rates, utilization</li>
+<li>Why high utilization creates long waits (the nonlinear curve)</li>
+<li>Little's Law</li>
+<li>Theory of constraints: the bottleneck governs the system</li>
+</ul>
+<p><strong>Reading:</strong></p>
+<ul>
+<li>Eliyahu Goldratt, <em>The Goal</em>, chapters 1-15 (yes, it's a novel)</li>
+<li>Factory Physics selections on variability and flow</li>
+</ul>
+<p><strong>Discussion:</strong></p>
+<ul>
+<li>Why "keep the machines busy" is wrong</li>
+<li>Buffer inventory as information storage</li>
+<li>The relationship between batch size and lead time</li>
+</ul>
+<hr />
+<h3 id="week-6-mechanism-design-and-distributed-coordination">Week 6: Mechanism Design and Distributed Coordination</h3>
+<p><strong>Core question:</strong> How do independent agents produce good outcomes?</p>
+<p><strong>Theory:</strong></p>
+<ul>
+<li>Markets as information processors</li>
+<li>Incentive compatibility</li>
+<li>Auctions and allocation mechanisms</li>
+<li>Market-based control for manufacturing</li>
+</ul>
+<p><strong>Reading:</strong></p>
+<ul>
+<li>Alvin Roth, <em>Who Gets What and Why</em>, chapters 1-4</li>
+<li>Academic paper: "Market-based control of manufacturing systems" (Wellman or similar)</li>
+</ul>
+<p><strong>Discussion:</strong></p>
+<ul>
+<li>How might manufacturing cells "bid" on work?</li>
+<li>Price signals vs. central scheduling</li>
+<li>When markets fail: coordination problems, externalities</li>
+</ul>
+<hr />
+<h3 id="week-7-networks-graphs-and-topology">Week 7: Networks, Graphs, and Topology</h3>
+<p><strong>Core question:</strong> How do cells connect?</p>
+<p><strong>Theory:</strong></p>
+<ul>
+<li>Nodes, edges, directed vs. undirected graphs</li>
+<li>Centralized, decentralized, distributed topologies</li>
+<li>Resilience: what happens when nodes fail?</li>
+<li>Small-world networks and scale-free networks</li>
+</ul>
+<p><strong>Reading:</strong></p>
+<ul>
+<li>Albert-László Barabási, <em>Linked</em>, chapters 1-5</li>
+<li>Internet protocol design as case study (RFC 791 or accessible summary)</li>
+</ul>
+<p><strong>Discussion:</strong></p>
+<ul>
+<li>The factory as network vs. the factory as hierarchy</li>
+<li>What would TCP/IP for manufacturing look like?</li>
+<li>Failure modes and recovery</li>
+</ul>
+<hr />
+<h2 id="unit-3-the-physical-substrate-weeks-8-10">Unit 3: The Physical Substrate (Weeks 8-10)</h2>
+<h3 id="week-8-reconfigurable-manufacturing-systems">Week 8: Reconfigurable Manufacturing Systems</h3>
+<p><strong>Core question:</strong> What does "designed for change" look like?</p>
+<p><strong>Theory:</strong></p>
+<ul>
+<li>Koren's six characteristics: modularity, integrability, customization, convertibility, scalability, diagnosability</li>
+<li>The difference between flexible and reconfigurable</li>
+<li>Setup time as the enemy</li>
+</ul>
+<p><strong>Reading:</strong></p>
+<ul>
+<li>Yoram Koren, <em>The Global Manufacturing Revolution</em>, chapters 4-7</li>
+<li>Case studies of RMS implementations</li>
+</ul>
+<p><strong>Discussion:</strong></p>
+<ul>
+<li>Why hasn't RMS achieved wider adoption?</li>
+<li>The gap between reconfigurable and truly adaptive</li>
+<li>What's missing from Koren's framework?</li>
+</ul>
+<hr />
+<h3 id="week-9-metrology-and-the-meaning-of-precision">Week 9: Metrology and the Meaning of Precision</h3>
+<p><strong>Core question:</strong> How do you know you made the right thing?</p>
+<p><strong>Theory:</strong></p>
+<ul>
+<li>Precision vs. accuracy</li>
+<li>Geometric dimensioning and tolerancing (GD&amp;T) concepts</li>
+<li>Tolerance stackup and why it matters</li>
+<li>In-process measurement vs. post-process inspection</li>
+</ul>
+<p><strong>Reading:</strong></p>
+<ul>
+<li>Selections from a GD&amp;T primer (conceptual, not certification-level)</li>
+<li>Historical: the development of interchangeable parts and the role of gauges</li>
+</ul>
+<p><strong>Discussion:</strong></p>
+<ul>
+<li>Measurement as the foundation of trust</li>
+<li>When is "good enough" good enough?</li>
+<li>The cost of over-specification</li>
+</ul>
+<hr />
+<h3 id="week-10-actuation-sensing-and-the-cell-as-organism">Week 10: Actuation, Sensing, and the Cell as Organism</h3>
+<p><strong>Core question:</strong> What are cells made of?</p>
+<p><strong>Theory:</strong></p>
+<ul>
+<li>Motors, actuators, and the conversion of energy to motion</li>
+<li>Sensors and the cell's perception of itself and its environment</li>
+<li>The control loop at the cell level</li>
+<li>State machines and mode transitions</li>
+</ul>
+<p><strong>Reading:</strong></p>
+<ul>
+<li>Rodney Brooks, <em>Flesh and Machines</em>, chapters on subsumption architecture</li>
+<li>Survey of actuator types and tradeoffs</li>
+</ul>
+<p><strong>Fiction:</strong></p>
+<ul>
+<li>Ted Chiang, "Seventy-Two Letters"</li>
+</ul>
+<p><strong>Discussion:</strong></p>
+<ul>
+<li>The actuator as muscle fiber, the cell as organism</li>
+<li>What sensors does an adaptive cell need?</li>
+<li>When do you have to design your own machines?</li>
+</ul>
+<hr />
+<h2 id="unit-4-design-craft-and-composition-weeks-11-13">Unit 4: Design, Craft, and Composition (Weeks 11-13)</h2>
+<h3 id="week-11-patterns-and-composability">Week 11: Patterns and Composability</h3>
+<p><strong>Core question:</strong> How do you design things that fit together?</p>
+<p><strong>Theory:</strong></p>
+<ul>
+<li>Pattern languages as design methodology</li>
+<li>Composability vs. integration</li>
+<li>The module boundary problem</li>
+<li>Interfaces and contracts</li>
+</ul>
+<p><strong>Reading:</strong></p>
+<ul>
+<li>Christopher Alexander, <em>A Pattern Language</em>, selections (patterns on workshops, small factories, flexible space)</li>
+<li>Unix philosophy as pattern language for software</li>
+</ul>
+<p><strong>Discussion:</strong></p>
+<ul>
+<li>What patterns exist for manufacturing cells?</li>
+<li>How do you design an interface between cells?</li>
+<li>The tradeoff between standardization and adaptation</li>
+</ul>
+<hr />
+<h3 id="week-12-craft-skill-and-tacit-knowledge">Week 12: Craft, Skill, and Tacit Knowledge</h3>
+<p><strong>Core question:</strong> What do humans contribute that machines can't?</p>
+<p><strong>Theory:</strong></p>
+<ul>
+<li>Tacit vs. explicit knowledge</li>
+<li>The role of the craftsman in adaptive systems</li>
+<li>Machines as teachers (Sennett)</li>
+<li>Skill acquisition and the Dreyfus model</li>
+</ul>
+<p><strong>Reading:</strong></p>
+<ul>
+<li>Richard Sennett, <em>The Craftsman</em>, chapters on the workshop and machine</li>
+<li>Matthew Crawford, <em>Shop Class as Soulcraft</em>, selections</li>
+</ul>
+<p><strong>Fiction:</strong></p>
+<ul>
+<li>Becky Chambers, <em>A Psalm for the Wild-Built</em></li>
+</ul>
+<p><strong>Discussion:</strong></p>
+<ul>
+<li>Is the goal to eliminate human involvement or to amplify it?</li>
+<li>What skills matter in an adaptive manufacturing context?</li>
+<li>The aesthetics of production</li>
+</ul>
+<hr />
+<h3 id="week-13-adaptation-over-time">Week 13: Adaptation Over Time</h3>
+<p><strong>Core question:</strong> How do buildings—and factories—learn?</p>
+<p><strong>Theory:</strong></p>
+<ul>
+<li>Shearing layers: site, structure, skin, services, space plan, stuff</li>
+<li>Low-road vs. high-road buildings</li>
+<li>Adaptation as design criterion</li>
+<li>The long now perspective</li>
+</ul>
+<p><strong>Reading:</strong></p>
+<ul>
+<li>Stewart Brand, <em>How Buildings Learn</em>, chapters on shearing layers and low-road buildings</li>
+</ul>
+<p><strong>Discussion:</strong></p>
+<ul>
+<li>What are the shearing layers of a manufacturing cell?</li>
+<li>Designing for the unknown future</li>
+<li>The Rust Belt as low-road industrial space</li>
+</ul>
+<hr />
+<h2 id="unit-5-integration-and-application-weeks-14-15">Unit 5: Integration and Application (Weeks 14-15)</h2>
+<h3 id="week-14-the-full-loop-from-order-to-shipment">Week 14: The Full Loop—From Order to Shipment</h3>
+<p><strong>Core question:</strong> What makes a cell a complete productive unit?</p>
+<p><strong>Theory:</strong></p>
+<ul>
+<li>The cell as autonomous agent</li>
+<li>Handoff costs and friction</li>
+<li>Packaging, documentation, logistics as cell responsibilities</li>
+<li>The vision: receive order → produce → package → ship, lights-out</li>
+</ul>
+<p><strong>Reading:</strong></p>
+<ul>
+<li>Revisit Robb on resilient communities</li>
+<li>Case studies on lights-out manufacturing (FANUC, etc.)</li>
+</ul>
+<p><strong>Discussion:</strong></p>
+<ul>
+<li>What's the minimum viable full-loop cell?</li>
+<li>Scaling from one cell to many</li>
+<li>The network as factory</li>
+</ul>
+<hr />
+<h3 id="week-15-telling-the-story">Week 15: Telling the Story</h3>
+<p><strong>Core question:</strong> How do paradigms become legible?</p>
+<p><strong>Theory:</strong></p>
+<ul>
+<li>The role of narrative in technological adoption</li>
+<li>Finding your villain, your hero, your setting</li>
+<li>The leapfrog thesis as story</li>
+<li>Who needs to believe, and what do they need to hear?</li>
+</ul>
+<p><strong>Reading:</strong></p>
+<ul>
+<li>Revisit Janeway on speculation and narrative</li>
+<li>Selections on technology rhetoric and adoption</li>
+</ul>
+<p><strong>Fiction:</strong></p>
+<ul>
+<li>Vernor Vinge, <em>A Deepness in the Sky</em>, Qeng Ho sections</li>
+</ul>
+<p><strong>Final project:</strong></p>
+<ul>
+<li>Students develop and present a pitch for an adaptive manufacturing venture, policy intervention, or research program</li>
+<li>Emphasis on narrative clarity, theoretical grounding, and practical viability</li>
+</ul>
+<hr />
+<h3 id="week-16-the-moral-economy-of-making">Week 16: The Moral Economy of Making</h3>
+<p><strong>Core question</strong>: What is manufacturing <em>for</em>?</p>
+<p><strong>Theory</strong>:</p>
+<ul>
+<li>The theology of work: labor as participation in creation, not just production of goods</li>
+<li>Subsidiarity: decisions should be made at the lowest competent level (the cell as subsidiarity in action)</li>
+<li>The common good vs. aggregate utility—why the framing matters</li>
+<li>Technology as servant, not master: the principle of subordination</li>
+<li>Stewardship of creation: manufacturing that doesn't merely extract</li>
+</ul>
+<p><strong>Reading</strong>:</p>
+<ul>
+<li>Pope Leo XIII, <em>Rerum Novarum</em> (1891), selections—the original Catholic engagement with industrial capitalism</li>
+<li>Pope John Paul II, <em>Laborem Exercens</em> (1981), sections on the priority of labor over capital and the meaning of work</li>
+<li>Pope Francis, <em>Laudato Si'</em> (2015), chapter 3 on technology and chapter 5 on integral ecology</li>
+<li>E.F. Schumacher, <em>Small Is Beautiful</em>, chapter on "Buddhist Economics" (yes, Buddhist—but deeply compatible; Schumacher was Catholic)</li>
+</ul>
+<p><strong>Optional deeper reading</strong>:</p>
+<ul>
+<li>Alasdair MacIntyre, <em>After Virtue</em>, chapter on practices and institutions</li>
+<li>Wendell Berry, essays on economics and locality (<em>What Are People For?</em> or <em>The Art of the Commonplace</em>)</li>
+<li>Dorothy Day's writings on work and dignity</li>
+</ul>
+<p><strong>Fiction</strong>:</p>
+<ul>
+<li>Walter M. Miller Jr., <em>A Canticle for Leibowitz</em>, Part 1 ("Fiat Homo")—monks preserving technical knowledge after collapse; the relationship between making, meaning, and continuity</li>
+</ul>
+<p><strong>Discussion questions</strong>:</p>
+<ul>
+<li>The humanoid robot thesis implicitly asks: how do we replace human labor? What if that's the wrong question?</li>
+<li>Subsidiarity suggests distributed, local decision-making. How does this map onto adaptive cell architecture?</li>
+<li>What does "integral human development" mean in a manufacturing context? Is there a version of automation that elevates rather than displaces?</li>
+<li>Reshoring as solidarity: what would it mean to design supply chains around relationship rather than pure efficiency?</li>
+<li>The "Gospel of work"—can manufacturing be a witness? To what?</li>
+</ul>
+<p><strong>Provocation</strong>:</p>
+<p>The secular discourse on automation asks: how do we maximize output while minimizing labor cost? Catholic Social Teaching asks: how do we design systems where work remains meaningful, where workers retain dignity, where technology serves human flourishing rather than subordinating it?</p>
+<p>These are not the same optimization target. They produce different factories.</p>
+<p><strong>Exercise</strong>:</p>
+<p>Redesign a manufacturing cell—or a network of cells—with subsidiarity, dignity, and stewardship as primary constraints rather than throughput and cost. What changes? What stays the same?</p>
+<hr />
+<h2 id="supplementary-reading-list">Supplementary Reading List</h2>
+<h3 id="fiction-complete">Fiction (Complete)</h3>
+<ul>
+<li>Cory Doctorow, <em>Walkaway</em></li>
+<li>William Gibson, <em>The Peripheral</em></li>
+<li>Becky Chambers, <em>A Psalm for the Wild-Built</em></li>
+<li>Neal Stephenson, <em>The Diamond Age</em></li>
+<li>Kim Stanley Robinson, <em>The Ministry for the Future</em></li>
+<li>Vernor Vinge, <em>A Deepness in the Sky</em></li>
+<li>Ted Chiang, "Seventy-Two Letters"</li>
+</ul>
+<h3 id="additional-theory">Additional Theory</h3>
+<ul>
+<li>Carlota Perez, <em>Technological Revolutions and Financial Capital</em></li>
+<li>Clayton Christensen, <em>The Innovator's Dilemma</em></li>
+<li>Vaclav Smil, <em>Making the Modern World</em></li>
+<li>Tracy Kidder, <em>The Soul of a New Machine</em></li>
+<li>Martin Ford, <em>Rise of the Robots</em></li>
+</ul>
+<h3 id="primary-sources-and-papers">Primary Sources and Papers</h3>
+<ul>
+<li>Georg von Krogh et al., papers on open source robotics ecosystems</li>
+<li>Wellman et al., market-based control literature</li>
+<li>ROS documentation and design philosophy</li>
+<li>RFC 791 and internet architecture documents</li>
+</ul>
+<hr />
+<h2 id="assessment">Assessment</h2>
+<ul>
+<li><strong>Participation (30%):</strong> Engaged discussion, evidence of reading, intellectual generosity</li>
+<li><strong>Weekly responses (30%):</strong> Short written reflections connecting readings to core questions</li>
+<li><strong>Final project (40%):</strong> A pitch—written and presented—for something that matters</li>
+</ul>
+<hr />
+<h2 id="a-note-on-interdisciplinarity">A Note on Interdisciplinarity</h2>
+<p>This seminar intentionally crosses boundaries that academia usually respects. Control theorists don't read James C. Scott. Economists don't read science fiction. Designers don't study queuing theory.</p>
+<p>The premise is that adaptive manufacturing is an inherently interdisciplinary problem, and the people who will solve it need to be comfortable with partial knowledge across many domains rather than complete knowledge in one.</p>
+<p>You will feel like a beginner in every unit. That's the point. The goal is not mastery but orientation—knowing enough to ask good questions, recognize patterns, and learn quickly when you encounter these ideas in the wild.</p>
+<p>The real work begins after the seminar ends.</p>
+
+</body>
+</html>

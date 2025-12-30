@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Allow: /
+Sitemap: https://username.github.io/adv-mfg/sitemap.xml
