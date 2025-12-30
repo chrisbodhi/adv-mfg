@@ -1,5 +1,6 @@
 +++
 title = "Adaptive Manufacturing Systems: Theory and Practice"
+insert_anchor_links = "right"
 +++
 
 ## An Interdisciplinary Seminar
