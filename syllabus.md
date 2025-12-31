@@ -372,10 +372,10 @@ No specific technical background required. The seminar assumes intellectual curi
 - Stewardship of creation: manufacturing that doesn't merely extract
 
 **Reading:**
-- Pope Leo XIII, *Rerum Novarum* (1891), selections—the original Catholic engagement with industrial capitalism
-- Pope John Paul II, *Laborem Exercens* (1981), sections on the priority of labor over capital and the meaning of work
-- Pope Francis, *Laudato Si'* (2015), chapter 3 on technology and chapter 5 on integral ecology
-- E.F. Schumacher, *Small Is Beautiful*, chapter on "Buddhist Economics" (yes, Buddhist—but deeply compatible; Schumacher was Catholic)
+- Pope Leo XIII, [*Rerum Novarum*](https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_15051891_rerum-novarum.html) (1891), sections 1-24—the original Catholic engagement with industrial capitalism
+- Pope John Paul II, [*Laborem Exercens*](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_14091981_laborem-exercens.html) (1981), sections 4-10 on the priority of labor over capital and the meaning of work
+- Pope Francis, [*Laudato Si'*](https://www.vatican.va/content/francesco/en/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html) (2015), chapter 3 (sections 101-136) on technology and chapter 5 (sections 137-162) on integral ecology
+- E.F. Schumacher, ["Buddhist Economics"](https://centerforneweconomics.org/publications/buddhist-economics/) from *Small Is Beautiful* (yes, Buddhist—but deeply compatible; Schumacher was Catholic)
 
 **Optional deeper reading:**
 - Alasdair MacIntyre, *After Virtue*, chapter on practices and institutions
