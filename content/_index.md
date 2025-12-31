@@ -127,17 +127,24 @@ No specific technical background required. The seminar assumes intellectual curi
 - Why high utilization creates long waits (the nonlinear curve)
 - Little's Law
 - Theory of constraints: the bottleneck governs the system
+- The mechanisms of production efficiency: what levers actually exist
 
 **Reading:**
 
 - Eliyahu Goldratt, *The Goal*, chapters 1-15 (yes, it's a novel)
-- Factory Physics selections on variability and flow
+- Wallace Hopp and Mark Spearman, *Factory Physics*, Part II chapters 7-9:
+  - Chapter 7: Basic Factory Dynamics (the relationship between WIP, cycle time, and throughput)
+  - Chapter 8: Variability Basics (sources and measures of variability)
+  - Chapter 9: The Corrupting Influence of Variability (why variability degrades performance and what to do about it)
+- Brian Potter, *The Origins of Efficiency*, chapters 1-6 (the framework for how production processes improve, and the specific strategies available)
 
 **Discussion:**
 
 - Why "keep the machines busy" is wrong
 - Buffer inventory as information storage
 - The relationship between batch size and lead time
+- Potter came to his framework after Katerra failed—what did they miss?
+- How do the Factory Physics "laws" relate to Potter's efficiency strategies?
 
 ---
 
@@ -396,11 +403,13 @@ No specific technical background required. The seminar assumes intellectual curi
 
 ---
 
-### Week 16: The Moral Economy of Making
+## Unit 6: The Moral Economy of Making (Week 16)
 
-**Core question**: What is manufacturing *for*?
+### Week 16: What Is Manufacturing For?
 
-**Theory**:
+**Core question:** What is manufacturing *for*?
+
+**Theory:**
 
 - The theology of work: labor as participation in creation, not just production of goods
 - Subsidiarity: decisions should be made at the lowest competent level (the cell as subsidiarity in action)
@@ -408,38 +417,38 @@ No specific technical background required. The seminar assumes intellectual curi
 - Technology as servant, not master: the principle of subordination
 - Stewardship of creation: manufacturing that doesn't merely extract
 
-**Reading**:
+**Reading:**
 
 - Pope Leo XIII, *Rerum Novarum* (1891), selections—the original Catholic engagement with industrial capitalism
 - Pope John Paul II, *Laborem Exercens* (1981), sections on the priority of labor over capital and the meaning of work
 - Pope Francis, *Laudato Si'* (2015), chapter 3 on technology and chapter 5 on integral ecology
 - E.F. Schumacher, *Small Is Beautiful*, chapter on "Buddhist Economics" (yes, Buddhist—but deeply compatible; Schumacher was Catholic)
 
-**Optional deeper reading**:
+**Optional deeper reading:**
 
 - Alasdair MacIntyre, *After Virtue*, chapter on practices and institutions
 - Wendell Berry, essays on economics and locality (*What Are People For?* or *The Art of the Commonplace*)
 - Dorothy Day's writings on work and dignity
 
-**Fiction**:
+**Fiction:**
 
 - Walter M. Miller Jr., *A Canticle for Leibowitz*, Part 1 ("Fiat Homo")—monks preserving technical knowledge after collapse; the relationship between making, meaning, and continuity
 
-**Discussion questions**:
+**Discussion questions:**
 
 - The humanoid robot thesis implicitly asks: how do we replace human labor? What if that's the wrong question?
 - Subsidiarity suggests distributed, local decision-making. How does this map onto adaptive cell architecture?
-- What does "integral human development" mean in a manufacturing context? Is there a version of automation that elevates rather than displaces?
+- What does "integral human development" mean in a manufacturing context? Is there a version of automation that *elevates* rather than displaces?
 - Reshoring as solidarity: what would it mean to design supply chains around relationship rather than pure efficiency?
 - The "Gospel of work"—can manufacturing be a witness? To what?
 
-**Provocation**:
+**Provocation:**
 
 The secular discourse on automation asks: how do we maximize output while minimizing labor cost? Catholic Social Teaching asks: how do we design systems where work remains meaningful, where workers retain dignity, where technology serves human flourishing rather than subordinating it?
 
 These are not the same optimization target. They produce different factories.
 
-**Exercise**:
+**Exercise:**
 
 Redesign a manufacturing cell—or a network of cells—with subsidiarity, dignity, and stewardship as primary constraints rather than throughput and cost. What changes? What stays the same?
 
@@ -456,6 +465,7 @@ Redesign a manufacturing cell—or a network of cells—with subsidiarity, digni
 - Kim Stanley Robinson, *The Ministry for the Future*
 - Vernor Vinge, *A Deepness in the Sky*
 - Ted Chiang, "Seventy-Two Letters"
+- Walter M. Miller Jr., *A Canticle for Leibowitz*
 
 ### Additional Theory
 
@@ -464,6 +474,8 @@ Redesign a manufacturing cell—or a network of cells—with subsidiarity, digni
 - Vaclav Smil, *Making the Modern World*
 - Tracy Kidder, *The Soul of a New Machine*
 - Martin Ford, *Rise of the Robots*
+- Brian Potter, *The Origins of Efficiency* (also assigned in Week 5)
+- Wallace Hopp and Mark Spearman, *Factory Physics* (also assigned in Week 5)
 
 ### Primary Sources and Papers
 
