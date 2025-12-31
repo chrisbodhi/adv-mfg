@@ -92,8 +92,9 @@ No specific technical background required. The seminar assumes intellectual curi
 - What happens when controlled systems interact
 
 **Reading:**
-- Karl Åström and Richard Murray, *Feedback Systems*, chapters 1-3 (available free online)
-- Historical: James Watt's governor as paradigm case
+- Karl Åström and Richard Murray, *Feedback Systems*, chapters 1-3 ([available free online](https://www.cds.caltech.edu/~murray/courses/cds101/fa03/caltech/am03_ch1-27sep03.pdf))
+- Historical: ["Remaking History: James Watt and the Flyball Governor"](https://makezine.com/projects/remaking-history-james-watt-and-the-flyball-governor/) (Make Magazine)
+- Historical: ["The Centrifugal Governor: Maxwell's Inspiration for Modern Control Theory"](https://medium.com/@robinchristen/the-centrifugal-govenor-james-c-maxwells-inspiration-for-modern-control-theory-f60f2ace833e)
 
 **Lab/Exercise:**
 - Simulate a simple feedback system; observe stability and instability
@@ -141,7 +142,7 @@ No specific technical background required. The seminar assumes intellectual curi
 
 **Reading:**
 - Alvin Roth, *Who Gets What and Why*, chapters 1-4
-- Academic paper: "Market-based control of manufacturing systems" (Wellman or similar)
+- Michael Wellman, ["Market-Oriented Programming: Some Early Lessons"](https://www.semanticscholar.org/paper/Market-oriented-programming:-some-early-lessons-Wellman/c5314e98ccc4d2e6cb81ae816ba45e9d0509579c) (1996)
 
 **Discussion:**
 - How might manufacturing cells "bid" on work?
@@ -184,7 +185,8 @@ No specific technical background required. The seminar assumes intellectual curi
 
 **Reading:**
 - Yoram Koren, *The Global Manufacturing Revolution*, chapters 4-7
-- Case studies of RMS implementations
+- ["Reconfigurable Manufacturing Systems: Principles, Design, and Future Trends"](https://link.springer.com/article/10.1007/s11465-018-0483-0) (Springer)
+- ["Reconfigurable Manufacturing Systems: From Design to Implementation"](https://www.researchgate.net/publication/334806872_Reconfigurable_Manufacturing_Systems_From_Design_to_Implementation) (ResearchGate)
 
 **Discussion:**
 - Why hasn't RMS achieved wider adoption?
@@ -204,8 +206,9 @@ No specific technical background required. The seminar assumes intellectual curi
 - In-process measurement vs. post-process inspection
 
 **Reading:**
-- Selections from a GD&T primer (conceptual, not certification-level)
-- Historical: the development of interchangeable parts and the role of gauges
+- ["GD&T 101: An Introduction to Geometric Dimensioning and Tolerancing"](https://www.fictiv.com/articles/gdt-101-an-introduction-to-geometric-dimensioning-and-tolerancing) (Fictiv)
+- ["A Brief History of Interchangeability and Dimensional Measurement in Manufacturing"](https://www.engineering.com/a-brief-history-of-interchangeability-and-dimensional-measurement-in-manufacturing/) (Engineering.com)
+- ["230 Years of Interchangeable Parts"](https://www.allaboutlean.com/230-years-interchangeability/) (AllAboutLean)
 
 **Discussion:**
 - Measurement as the foundation of trust
@@ -225,8 +228,9 @@ No specific technical background required. The seminar assumes intellectual curi
 - State machines and mode transitions
 
 **Reading:**
-- Rodney Brooks, *Flesh and Machines*, chapters on subsumption architecture
-- Survey of actuator types and tradeoffs
+- Rodney Brooks, *Flesh and Machines*, chapters 2-4 (subsumption architecture)
+- ["Comparison of hydraulic, pneumatic and electric linear actuation systems"](https://www.nature.com/articles/s41598-023-47602-x) (*Scientific Reports*, 2023)
+- ["Choosing the Right Drive System for Your Robotics Application"](https://www.onlinerobotics.com/news-blog/choosing-right-drive-system-your-robotics-application-electric-hydraulic-and-pneumatic) (GBC Robotics)
 
 **Fiction:**
 - Ted Chiang, "Seventy-Two Letters"
@@ -251,8 +255,8 @@ No specific technical background required. The seminar assumes intellectual curi
 - Interfaces and contracts
 
 **Reading:**
-- Christopher Alexander, *A Pattern Language*, selections (patterns on workshops, small factories, flexible space)
-- Unix philosophy as pattern language for software
+- Christopher Alexander, *A Pattern Language*, patterns 146 (Flexible Office Space), 149 (Small Work Groups), 156 (Settled Work), 157 (Home Workshop)
+- Eric S. Raymond, [*The Art of Unix Programming*](http://www.catb.org/esr/writings/taoup/html/), especially [Chapter 1: Philosophy](http://www.catb.org/esr/writings/taoup/html/ch01s06.html)
 
 **Discussion:**
 - What patterns exist for manufacturing cells?
@@ -319,7 +323,9 @@ No specific technical background required. The seminar assumes intellectual curi
 
 **Reading:**
 - Revisit Robb on resilient communities
-- Case studies on lights-out manufacturing (FANUC, etc.)
+- ["Lights-Out Manufacturing in 2025"](https://standardbots.com/blog/lights-out-manufacturing) (Standard Bots)
+- ["Lights-Out Automation: Fact or Fiction?"](https://www.assemblymag.com/articles/94982-lights-out-automation-fact-or-fiction) (Assembly Magazine)
+- [FANUC Case Studies](https://www.fanucamerica.com/case-studies)
 
 **Discussion:**
 - What's the minimum viable full-loop cell?
@@ -340,7 +346,8 @@ No specific technical background required. The seminar assumes intellectual curi
 
 **Reading:**
 - Revisit Janeway on speculation and narrative
-- Selections on technology rhetoric and adoption
+- Sheila Jasanoff and Sang-Hyun Kim, ["Sociotechnical Imaginaries and National Energy Policies"](https://law.unimelb.edu.au/__data/assets/pdf_file/0009/3305673/1.-Jasanoff-and-Kim-2015-Dreamscapes-of-Modernity-Sociotechnical-Imaginari.pdf) (chapter from *Dreamscapes of Modernity*)
+- Everett Rogers, ["Diffusion of Innovations"](https://diffusion-research.org/research_articles/adoption-of-innovations/) (overview)
 
 **Fiction:**
 - Vernor Vinge, *A Deepness in the Sky*, Qeng Ho sections
