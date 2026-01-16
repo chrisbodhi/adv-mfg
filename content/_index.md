@@ -42,9 +42,9 @@ No specific technical background required. The seminar assumes intellectual curi
 
 **Optional Viewing:**
 
-- *American Factory* (2019)—Oscar-winning documentary on a Chinese company reopening a GM plant in Ohio; the clash of manufacturing cultures in one building
-- *Connections* (1978), Episode 1: "The Trigger Effect"—James Burke on how technological systems create dependencies and enable paradigm shifts
-- *The Men Who Built America* (2012), episodes on Ford and the assembly line
+- [*American Factory*](https://www.imdb.com/title/tt9351980/) (2019)—Oscar-winning documentary on a Chinese company reopening a GM plant in Ohio; the clash of manufacturing cultures in one building
+- [*Connections*](https://archive.org/details/james-burke-connections_s01e01) (1978), Episode 1: "The Trigger Effect"—James Burke on how technological systems create dependencies and enable paradigm shifts ([IMDB](https://www.imdb.com/title/tt0078588/))
+- [*The Men Who Built America*](https://www.imdb.com/title/tt2167393/) (2012), episodes on Ford and the assembly line
 
 ---
 
@@ -71,9 +71,9 @@ No specific technical background required. The seminar assumes intellectual curi
 
 **Optional Viewing:**
 
-- *Chernobyl* (2019), Episodes 1-2—HBO's miniseries is a masterclass in how centralized systems fail: information suppression, misaligned incentives, the cost of legibility over truth
-- *Brazil* (1985)—Terry Gilliam's dystopia of bureaucratic optimization; darkly funny, deeply relevant
-- *The Pruitt-Igoe Myth* (2011)—documentary on the rise and fall of modernist public housing; high-modernist planning meets reality
+- [*Chernobyl*](https://www.imdb.com/title/tt7366338/) (2019), Episodes 1-2—HBO's miniseries is a masterclass in how centralized systems fail: information suppression, misaligned incentives, the cost of legibility over truth
+- [*Brazil*](https://www.imdb.com/title/tt0088846/) (1985)—Terry Gilliam's dystopia of bureaucratic optimization; darkly funny, deeply relevant
+- [*The Pruitt-Igoe Myth*](https://www.imdb.com/title/tt1789593/) (2011)—documentary on the rise and fall of modernist public housing; high-modernist planning meets reality
 
 ---
 
@@ -104,9 +104,9 @@ No specific technical background required. The seminar assumes intellectual curi
 
 **Optional Viewing:**
 
-- *Alone in the Wilderness* (2004)—Dick Proenneke builds a cabin in Alaska with hand tools; a meditation on self-sufficiency and the minimum viable productive unit
-- *Maker* (2014)—documentary on the maker movement; optimistic, but raises real questions about what distributed production can achieve
-- *If a Tree Falls* (2011)—documentary on the Earth Liberation Front; a darker take on when networked, decentralized groups turn to destruction
+- [*Alone in the Wilderness*](https://www.imdb.com/title/tt0437806/) (2004)—Dick Proenneke builds a cabin in Alaska with hand tools; a meditation on self-sufficiency and the minimum viable productive unit
+- [*Maker*](https://www.imdb.com/title/tt4226322/) (2014)—documentary on the maker movement; optimistic, but raises real questions about what distributed production can achieve
+- [*If a Tree Falls*](https://www.imdb.com/title/tt1787725/) (2011)—documentary on the Earth Liberation Front; a darker take on when networked, decentralized groups turn to destruction
 
 ---
 
@@ -136,8 +136,8 @@ No specific technical background required. The seminar assumes intellectual curi
 
 **Optional Viewing:**
 
-- *The Secret Life of Machines* (1988-1993)—Tim Hunkin's eccentric, brilliant series on how machines work; the episodes on the washing machine and the car are particularly good on feedback and control
-- *Inventing the Future: The Early Days of Cybernetics* (1984)—BBC documentary on Norbert Wiener and the birth of control theory
+- [*The Secret Life of Machines*](https://www.youtube.com/playlist?list=PLByTa5duIolYRtq3Hqdp29hNiDLKEhVfk) (1988-1993)—Tim Hunkin's eccentric, brilliant series on how machines work; the episodes on the washing machine and the car are particularly good on feedback and control ([IMDB](https://www.imdb.com/title/tt0108926/))
+- [*The Machine That Changed the World*](https://archive.org/details/the-machine-that-changed-the-world) (1992)—five-part documentary on the history of computing, including cybernetics and feedback systems ([IMDB](https://www.imdb.com/title/tt0122355/))
 - [3Blue1Brown: "What is a PID Controller?"](https://www.youtube.com/watch?v=wkfEZmsQqiA)—elegant visual explanation of the "universal kludge"
 
 ---
@@ -173,8 +173,8 @@ No specific technical background required. The seminar assumes intellectual curi
 
 **Optional Viewing:**
 
-- *The Goal* (1984)—yes, they made a training film of Goldratt's novel; charmingly dated, surprisingly watchable
-- *Boeing 787 Dreamliner: Inside the Factory* (various)—any of the factory tour documentaries showing flow, bottlenecks, and the choreography of complex assembly
+- [*The Goal*](https://www.imdb.com/title/tt6811888/) (2019)—recent adaptation of Goldratt's novel showing theory of constraints in action
+- [Boeing 787 Dreamliner Manufacturing](https://www.youtube.com/watch?v=xNrHRsGxlJE) (various)—factory tour documentaries showing flow, bottlenecks, and the choreography of complex assembly
 - [Veritasium: "The Surprising Secret of Synchronization"](https://www.youtube.com/watch?v=t-_VPRCtiUg)—not directly about queuing, but brilliant on how systems find (or fail to find) coordinated states
 
 ---
@@ -203,8 +203,8 @@ No specific technical background required. The seminar assumes intellectual curi
 
 **Optional Viewing:**
 
-- *Inside the Mind of Google* (2010)—CNBC documentary touching on auction design for advertising; markets as coordination mechanisms
-- *The Billion Dollar Code* (2021)—German miniseries on the origins of Google Earth; tangentially relevant for how decentralized contributors can (or can't) coordinate
+- [*Inside the Mind of Google*](https://www.imdb.com/title/tt1577256/) (2010)—CNBC documentary touching on auction design for advertising; markets as coordination mechanisms
+- [*The Billion Dollar Code*](https://www.imdb.com/title/tt15392100/) (2021)—German miniseries on the origins of Google Earth; tangentially relevant for how decentralized contributors can (or can't) coordinate
 - [Numberphile: "The Stable Marriage Problem"](https://www.youtube.com/watch?v=Qcv1IqHWAzg)—accessible introduction to matching markets and mechanism design
 
 ---
@@ -233,8 +233,8 @@ No specific technical background required. The seminar assumes intellectual curi
 
 **Optional Viewing:**
 
-- *Lo and Behold: Reveries of the Connected World* (2016)—Werner Herzog's meditation on the internet; poetic, strange, and surprisingly deep on network architecture
-- *All Watched Over by Machines of Loving Grace* (2011), Episode 2: "The Use and Abuse of Vegetational Concepts"—Adam Curtis on how network thinking shapes our understanding of systems (warning: Curtis is provocative and partial)
+- [*Lo and Behold: Reveries of the Connected World*](https://www.imdb.com/title/tt5275828/) (2016)—Werner Herzog's meditation on the internet; poetic, strange, and surprisingly deep on network architecture
+- [*All Watched Over by Machines of Loving Grace*](https://www.imdb.com/title/tt1955152/) (2011), Episode 2: "The Use and Abuse of Vegetational Concepts"—Adam Curtis on how network thinking shapes our understanding of systems (warning: Curtis is provocative and partial) ([full series on YouTube](https://www.youtube.com/watch?v=PqG19mn4tYE))
 - [3Blue1Brown: "But what is a neural network?"](https://www.youtube.com/watch?v=aircAruvnKk)—networks as computational architecture; elegant visualization
 
 ---
@@ -265,8 +265,8 @@ No specific technical background required. The seminar assumes intellectual curi
 
 **Optional Viewing:**
 
-- *How It's Made* (any episode)—the platonic ideal of manufacturing content; watch for what's reconfigurable vs. fixed
-- *Inside the Gigafactory* (2018)—Tesla's attempt at reconfigurable, rapid-iteration manufacturing; instructive whether you view it as success or cautionary tale
+- [*How It's Made*](https://www.imdb.com/title/tt0392763/) (any episode)—the platonic ideal of manufacturing content; watch for what's reconfigurable vs. fixed ([episodes on YouTube](https://www.youtube.com/@HowItsMade))
+- [Inside Tesla's Gigafactory](https://www.youtube.com/watch?v=1NLevuLMXpQ) (various)—Tesla's attempt at reconfigurable, rapid-iteration manufacturing; instructive whether you view it as success or cautionary tale
 - [Stuff Made Here: "I made a mass-production system at home"](https://www.youtube.com/watch?v=lHnKFPwb6rQ)—YouTube engineer builds reconfigurable production; entertaining and educational
 
 ---
@@ -296,7 +296,7 @@ No specific technical background required. The seminar assumes intellectual curi
 
 **Optional Viewing:**
 
-- *The Most Unknown* (2018), segment on the kilogram—what it means to define a unit of measurement; the 2019 redefinition is a paradigm shift
+- [*The Most Unknown*](https://www.imdb.com/title/tt8416040/) (2018), segment on the kilogram—what it means to define a unit of measurement; the 2019 redefinition is a paradigm shift
 - [Clickspring: "Making the Antikythera Mechanism"](https://www.youtube.com/playlist?list=PLZioPDnFPNsHnyxfygxA0to4RXv4_jDU2)—YouTube series on precision machining with hand tools; meditative and rigorous
 - [Machine Thinking: "Why Precision Matters"](https://www.youtube.com/watch?v=gNRnrn5DE58)—short explainer on tolerances and why they compound
 
@@ -331,9 +331,9 @@ No specific technical background required. The seminar assumes intellectual curi
 
 **Optional Viewing:**
 
-- Boston Dynamics videos (Atlas, Spot)—the state of the art in integrated actuation and sensing; watch for what's still hard
+- [Boston Dynamics](https://www.youtube.com/@BostonDynamics) videos (Atlas, Spot)—the state of the art in integrated actuation and sensing; watch for what's still hard
 - [Simone Giertz: "Why I Make Useless Robots"](https://www.youtube.com/watch?v=c0bsKc4tiuY)—TED talk; funny, but also a real meditation on the gap between intention and execution in robotics
-- *More Than Human* (2019)—short documentary on prosthetics and the body-machine interface; actuation as extension of self
+- [*Fixed: The Science/Fiction of Human Enhancement*](https://www.imdb.com/title/tt2125436/) (2013)—documentary on prosthetics, human augmentation, and the body-machine interface
 
 ---
 
@@ -363,9 +363,9 @@ No specific technical background required. The seminar assumes intellectual curi
 
 **Optional Viewing:**
 
-- *Design Is [Dangerous]* (2020)—documentary on Christopher Alexander; his patterns, his frustrations, his vision of wholeness
+- [*Citizen Architect: Samuel Mockbee and the Spirit of the Rural Studio*](https://www.imdb.com/title/tt1494721/) (2010)—documentary on pattern-based, community-centered architecture; Alexander's ideas in practice
 - [The Unix Legacy](https://www.youtube.com/watch?v=tc4ROCJYbm0)—AT&T Archives film on Unix philosophy; composability as design principle
-- *Eames: The Architect and the Painter* (2011)—Charles and Ray Eames on design patterns, modularity, and play
+- [*Eames: The Architect and the Painter*](https://www.imdb.com/title/tt1972751/) (2011)—Charles and Ray Eames on design patterns, modularity, and play
 
 ---
 
@@ -397,8 +397,8 @@ No specific technical background required. The seminar assumes intellectual curi
 
 **Optional Viewing:**
 
-- *Jiro Dreams of Sushi* (2011)—the platonic ideal of craft; tacit knowledge embodied in a lifetime of practice
-- *Samsara* (2011)—non-narrative documentary with stunning sequences on manufacturing and craft; the contrast between handwork and automation
+- [*Jiro Dreams of Sushi*](https://www.imdb.com/title/tt1772925/) (2011)—the platonic ideal of craft; tacit knowledge embodied in a lifetime of practice
+- [*Samsara*](https://www.imdb.com/title/tt0770802/) (2011)—non-narrative documentary with stunning sequences on manufacturing and craft; the contrast between handwork and automation
 - [Primitive Technology](https://www.youtube.com/@primitivetechnology9550) (YouTube channel)—silent videos of a man building things from scratch in the Australian bush; pure tacit knowledge made visible
 
 ---
@@ -426,9 +426,9 @@ No specific technical background required. The seminar assumes intellectual curi
 
 **Optional Viewing:**
 
-- *How Buildings Learn* (1997)—Stewart Brand's BBC series based on his book; essential viewing, and the source material is free online
-- *My Architect* (2003)—Nathaniel Kahn's documentary on his father Louis Kahn; high-road buildings and what they cost
-- *Manufactured Landscapes* (2006)—Edward Burtynsky's photographs of industrial transformation; long takes on what change looks like at scale
+- [*How Buildings Learn*](https://www.youtube.com/watch?v=AvEqfg2sIH0) (1997)—Stewart Brand's BBC series based on his book; essential viewing, free on YouTube
+- [*My Architect*](https://www.imdb.com/title/tt0373175/) (2003)—Nathaniel Kahn's documentary on his father Louis Kahn; high-road buildings and what they cost
+- [*Manufactured Landscapes*](https://www.imdb.com/title/tt0832903/) (2006)—Edward Burtynsky's photographs of industrial transformation; long takes on what change looks like at scale
 
 ---
 
@@ -460,8 +460,8 @@ No specific technical background required. The seminar assumes intellectual curi
 
 **Optional Viewing:**
 
-- *Inside Amazon's Smart Warehouse* (various)—any of the fulfillment center documentaries; the closest thing to lights-out logistics at scale
-- *FANUC: The Robot Kingdom* (various)—factory tours of robots making robots; the dream and the reality
+- [Inside Amazon's Fulfillment Center](https://www.youtube.com/watch?v=IMPbKVb8y8s) (various)—any of the fulfillment center documentaries; the closest thing to lights-out logistics at scale
+- [FANUC Factory Tour: Robots Building Robots](https://www.youtube.com/watch?v=_SgCXK9GVQA) (various)—factory tours of robots making robots; the dream and the reality
 - [Wendover Productions: "The Insane Logistics of Formula 1"](https://www.youtube.com/watch?v=6OLVFa8YRfM)—not manufacturing, but a masterclass in the full loop from order to execution under extreme constraints
 
 ---
@@ -489,9 +489,9 @@ No specific technical background required. The seminar assumes intellectual curi
 
 **Optional Viewing:**
 
-- *Something Ventured* (2011)—documentary on the early days of Silicon Valley venture capital; how stories attract capital
-- *General Magic* (2018)—documentary on the company that invented the smartphone and failed; narrative, timing, and why being right isn't enough
-- *Print the Legend* (2014)—documentary on the 3D printing hype cycle; a case study in how narratives form and collapse
+- [*Something Ventured*](https://www.imdb.com/title/tt1737747/) (2011)—documentary on the early days of Silicon Valley venture capital; how stories attract capital
+- [*General Magic*](https://www.imdb.com/title/tt6735880/) (2018)—documentary on the company that invented the smartphone and failed; narrative, timing, and why being right isn't enough
+- [*Print the Legend*](https://www.imdb.com/title/tt3557464/) (2014)—documentary on the 3D printing hype cycle; a case study in how narratives form and collapse
 
 **Final project:**
 
@@ -547,10 +547,10 @@ These are not the same optimization target. They produce different factories.
 
 **Optional Viewing:**
 
-- *Modern Times* (1936)—Chaplin's silent comedy on industrialization and human dignity; funny, sad, and still relevant
-- *Manufactured Landscapes* (2006)—Edward Burtynsky's photographs of global manufacturing; scale and consequence
-- [Dorothy Day documentary](https://www.youtube.com/watch?v=3ACUn3L8KKs) (various)—the Catholic Worker movement's vision of work, dignity, and community
-- *For the Love of God: A Conversation About Laudato Si'* (various)—Catholic discussions of the encyclical; connects the text to contemporary questions
+- [*Modern Times*](https://www.imdb.com/title/tt0027977/) (1936)—Chaplin's silent comedy on industrialization and human dignity; funny, sad, and still relevant ([on Internet Archive](https://archive.org/details/ModernTimes_201710))
+- [*Manufactured Landscapes*](https://www.imdb.com/title/tt0832903/) (2006)—Edward Burtynsky's photographs of global manufacturing; scale and consequence
+- [*Dorothy Day: Don't Call Me a Saint*](https://www.imdb.com/title/tt0780505/) (2005)—the Catholic Worker movement's vision of work, dignity, and community ([trailer](https://www.youtube.com/watch?v=3ACUn3L8KKs))
+- [*The Letter: A Message for Our Earth*](https://www.imdb.com/title/tt21376298/) (2022)—documentary on *Laudato Si'* featuring voices from around the world ([free on YouTube](https://www.youtube.com/watch?v=Rps9bs85BII))
 
 **Exercise:**
 
