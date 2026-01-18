@@ -34,6 +34,11 @@ No specific technical background required. The seminar assumes intellectual curi
 - Containerization + JIT + telecom → Chinese ascendance
 - What's next?
 
+**Optional Viewing:**
+- [*American Factory*](https://www.imdb.com/title/tt9351980/) (2019)—Oscar-winning documentary on a Chinese company reopening a GM plant in Ohio; the clash of manufacturing cultures in one building
+- [*Connections*](https://archive.org/details/james-burke-connections_s01e01) (1978), Episode 1: "The Trigger Effect"—James Burke on how technological systems create dependencies and enable paradigm shifts ([IMDB](https://www.imdb.com/title/tt0078588/))
+- [*The Men Who Built America*](https://www.imdb.com/title/tt2167393/) (2012), episodes on Ford and the assembly line
+
 ---
 
 ### Week 2: The Failure Modes of Centralized Systems
@@ -53,6 +58,11 @@ No specific technical background required. The seminar assumes intellectual curi
 - Mass production as high-modernist project
 - What knowledge lives in a factory that can't be written down?
 - The vulnerability of "designed in California, made in China"
+
+**Optional Viewing:**
+- [*Chernobyl*](https://www.imdb.com/title/tt7366338/) (2019), Episodes 1-2—HBO's miniseries is a masterclass in how centralized systems fail: information suppression, misaligned incentives, the cost of legibility over truth
+- [*Brazil*](https://www.imdb.com/title/tt0088846/) (1985)—Terry Gilliam's dystopia of bureaucratic optimization; darkly funny, deeply relevant
+- [*The Pruitt-Igoe Myth*](https://www.imdb.com/title/tt1788461) (2011)—documentary on the rise and fall of modernist public housing; high-modernist planning meets reality
 
 ---
 
@@ -77,6 +87,11 @@ No specific technical background required. The seminar assumes intellectual curi
 - What can resilient communities actually make?
 - The role of crisis in paradigm adoption
 
+**Optional Viewing:**
+- [*Alone in the Wilderness*](https://www.imdb.com/title/tt0437806/) (2004)—Dick Proenneke builds a cabin in Alaska with hand tools; a meditation on self-sufficiency and the minimum viable productive unit
+- [*Maker*](https://www.imdb.com/title/tt3758478) (2014)—documentary on the maker movement; optimistic, but raises real questions about what distributed production can achieve
+- [*If a Tree Falls*](https://www.imdb.com/title/tt1787725/) (2011)—documentary on the Earth Liberation Front; a darker take on when networked, decentralized groups turn to destruction
+
 ---
 
 ## Unit 2: The Grammar of Adaptive Systems (Weeks 4-7)
@@ -99,6 +114,11 @@ No specific technical background required. The seminar assumes intellectual curi
 **Lab/Exercise:**
 - Simulate a simple feedback system; observe stability and instability
 - Discuss: what aspects of a manufacturing cell need closed-loop control?
+
+**Optional Viewing:**
+- [*The Secret Life of Machines*](https://www.youtube.com/playlist?list=PLByTa5duIolYRtq3Hqdp29hNiDLKEhVfk) (1988-1993)—Tim Hunkin's eccentric, brilliant series on how machines work; the episodes on the washing machine and the car are particularly good on feedback and control ([IMDb](https://www.imdb.com/title/tt0431571))
+- [*The Machine That Changed the World*](https://archive.org/details/the-machine-that-changed-the-world-1-1) (1992)—five-part documentary on the history of computing, including cybernetics and feedback systems ([IMDb](https://www.imdb.com/title/tt0122355/))
+- [MATLAB: "What is a PID Controller?"](https://www.youtube.com/watch?v=wkfEZmsQqiA)—elegant visual explanation of the "universal kludge"
 
 ---
 
@@ -128,6 +148,10 @@ No specific technical background required. The seminar assumes intellectual curi
 - Potter came to his framework after Katerra failed—what did they miss?
 - How do the Factory Physics "laws" relate to Potter's efficiency strategies?
 
+**Optional Viewing:**
+- [Boeing 787 Dreamliner Manufacturing](https://www.youtube.com/watch?v=SLgbOhdmK1I) (Boeing)—factory tour documentaries showing flow, bottlenecks, and the choreography of complex assembly
+- [Veritasium: "The Surprising Secret of Synchronization"](https://www.youtube.com/watch?v=t-_VPRCtiUg)—not directly about queuing, but brilliant on how systems find (or fail to find) coordinated states
+
 ---
 
 ### Week 6: Mechanism Design and Distributed Coordination
@@ -149,6 +173,11 @@ No specific technical background required. The seminar assumes intellectual curi
 - Price signals vs. central scheduling
 - When markets fail: coordination problems, externalities
 
+**Optional Viewing:**
+- [*Inside the Mind of Google*](https://www.imdb.com/title/tt3586136/) (2010)—CNBC documentary touching on auction design for advertising; markets as coordination mechanisms
+- [*The Billion Dollar Code*](https://www.imdb.com/title/tt15392100/) (2021)—German miniseries on the origins of Google Earth; tangentially relevant for how decentralized contributors can (or can't) coordinate
+- [Numberphile: "The Stable Marriage Problem"](https://www.youtube.com/watch?v=Qcv1IqHWAzg)—accessible introduction to matching markets and mechanism design
+
 ---
 
 ### Week 7: Networks, Graphs, and Topology
@@ -169,6 +198,11 @@ No specific technical background required. The seminar assumes intellectual curi
 - The factory as network vs. the factory as hierarchy
 - What would TCP/IP for manufacturing look like?
 - Failure modes and recovery
+
+**Optional Viewing:**
+- [*Lo and Behold: Reveries of the Connected World*](https://www.imdb.com/title/tt5275828/) (2016)—Werner Herzog's meditation on the internet; poetic, strange, and surprisingly deep on network architecture
+- [*All Watched Over by Machines of Loving Grace*](https://www.imdb.com/title/tt1955162) (2011), Episode 2: "The Use and Abuse of Vegetational Concepts"—Adam Curtis on how network thinking shapes our understanding of systems (warning: Curtis is provocative and partial) ([full series on YouTube](https://www.youtube.com/watch?v=I6EBpLfLHCA&list=PLC4E798CAE3E10597))
+- [3Blue1Brown: "But what is a neural network?"](https://www.youtube.com/watch?v=aircAruvnKk)—networks as computational architecture; elegant visualization
 
 ---
 
@@ -193,6 +227,10 @@ No specific technical background required. The seminar assumes intellectual curi
 - The gap between reconfigurable and truly adaptive
 - What's missing from Koren's framework?
 
+**Optional Viewing:**
+- [*How It's Made*](https://www.imdb.com/title/tt0835010) (any episode)—the platonic ideal of manufacturing content; watch for what's reconfigurable vs. fixed ([episodes on YouTube](https://www.youtube.com/playlist?list=PL39_ud5aKSvnYDhKdB7wTDUZRiE8RaJat))
+- [Inside Tesla's Gigafactory](https://www.youtube.com/watch?v=gPFqyLYf1DU&pp=ygUYaW5zaWRlIHRlc2xhIGdpZ2FmYWN0b3J5) (various)—Tesla's attempt at reconfigurable, rapid-iteration manufacturing; instructive whether you view it as success or cautionary tale
+
 ---
 
 ### Week 9: Metrology and the Meaning of Precision
@@ -214,6 +252,10 @@ No specific technical background required. The seminar assumes intellectual curi
 - Measurement as the foundation of trust
 - When is "good enough" good enough?
 - The cost of over-specification
+
+**Optional Viewing:**
+- [Clickspring: "Making the Antikythera Mechanism"](https://www.youtube.com/playlist?list=PLZioPDnFPNsHnyxfygxA0to4RXv4_jDU2)—YouTube series on precision machining with hand tools; meditative and rigorous
+- [Machine Thinking: "Why Precision Matters"](https://www.youtube.com/watch?v=gNRnrn5DE58)—short explainer on tolerances and why they compound
 
 ---
 
@@ -240,6 +282,11 @@ No specific technical background required. The seminar assumes intellectual curi
 - What sensors does an adaptive cell need?
 - When do you have to design your own machines?
 
+**Optional Viewing:**
+- [Boston Dynamics](https://www.youtube.com/@BostonDynamics) videos (Atlas, Spot)—the state of the art in integrated actuation and sensing; watch for what's still hard
+- [Simone Giertz: "Why I Make Useless Things"](https://www.youtube.com/watch?v=c0bsKc4tiuY)—TED talk; funny, but also a real meditation on the gap between intention and execution in robotics
+- [*Fixed: The Science/Fiction of Human Enhancement*](https://www.imdb.com/title/tt2774206) (2013)—documentary on prosthetics, human augmentation, and the body-machine interface
+
 ---
 
 ## Unit 4: Design, Craft, and Composition (Weeks 11-13)
@@ -262,6 +309,11 @@ No specific technical background required. The seminar assumes intellectual curi
 - What patterns exist for manufacturing cells?
 - How do you design an interface between cells?
 - The tradeoff between standardization and adaptation
+
+**Optional Viewing:**
+- [*Citizen Architect: Samuel Mockbee and the Spirit of the Rural Studio*](https://www.imdb.com/title/tt1522295/) (2010)—documentary on pattern-based, community-centered architecture; Alexander's ideas in practice
+- [The Unix Legacy](https://www.youtube.com/watch?v=tc4ROCJYbm0)—AT&T Archives film on Unix philosophy; composability as design principle
+- [*Eames: The Architect and the Painter*](https://www.imdb.com/title/tt1972646/) (2011)—Charles and Ray Eames on design patterns, modularity, and play
 
 ---
 
@@ -287,6 +339,11 @@ No specific technical background required. The seminar assumes intellectual curi
 - What skills matter in an adaptive manufacturing context?
 - The aesthetics of production
 
+**Optional Viewing:**
+- [*Jiro Dreams of Sushi*](https://www.imdb.com/title/tt1772925/) (2011)—the platonic ideal of craft; tacit knowledge embodied in a lifetime of practice
+- [*Samsara*](https://www.imdb.com/title/tt0770802/) (2011)—non-narrative documentary with stunning sequences on manufacturing and craft; the contrast between handwork and automation
+- [Primitive Technology](https://www.youtube.com/@primitivetechnology9550) (YouTube channel)—silent videos of a man building things from scratch in the Australian bush; pure tacit knowledge made visible
+
 ---
 
 ### Week 13: Adaptation Over Time
@@ -306,6 +363,11 @@ No specific technical background required. The seminar assumes intellectual curi
 - What are the shearing layers of a manufacturing cell?
 - Designing for the unknown future
 - The Rust Belt as low-road industrial space
+
+**Optional Viewing:**
+- [*How Buildings Learn*](https://www.youtube.com/watch?v=AvEqfg2sIH0) (1997)—Stewart Brand's BBC series based on his book; essential viewing, free on YouTube
+- [*My Architect*](https://www.imdb.com/title/tt0373175/) (2003)—Nathaniel Kahn's documentary on his father Louis Kahn; high-road buildings and what they cost
+- [*Manufactured Landscapes*](https://www.imdb.com/title/tt0832903/) (2006)—Edward Burtynsky's photographs of industrial transformation; long takes on what change looks like at scale
 
 ---
 
@@ -332,6 +394,11 @@ No specific technical background required. The seminar assumes intellectual curi
 - Scaling from one cell to many
 - The network as factory
 
+**Optional Viewing:**
+- [Inside Amazon's Fulfillment Center](https://www.youtube.com/watch?v=IMPbKVb8y8s) (various)—any of the fulfillment center documentaries; the closest thing to lights-out logistics at scale
+- [FANUC Factory Tour: Robots Building Robots](https://www.youtube.com/watch?v=F46GRWuyEy8&pp=ygUSRkFOVUMgRmFjdG9yeSBUb3Vy) (various)—factory tours of robots making robots; the dream and the reality
+- [Wendover Productions: "The Insane Logistics of Formula 1"](https://www.youtube.com/watch?v=6OLVFa8YRfM)—not manufacturing, but a masterclass in the full loop from order to execution under extreme constraints
+
 ---
 
 ### Week 15: Telling the Story
@@ -351,6 +418,11 @@ No specific technical background required. The seminar assumes intellectual curi
 
 **Fiction:**
 - Vernor Vinge, *A Deepness in the Sky*, Qeng Ho sections
+
+**Optional Viewing:**
+- [*Something Ventured*](https://www.imdb.com/title/tt1737747/) (2011)—documentary on the early days of Silicon Valley venture capital; how stories attract capital
+- [*General Magic*](https://www.imdb.com/title/tt6849786) (2018)—documentary on the company that invented the smartphone and failed; narrative, timing, and why being right isn't enough
+- [*Print the Legend*](https://www.imdb.com/title/tt3557464/) (2014)—documentary on the 3D printing hype cycle; a case study in how narratives form and collapse
 
 **Final project:**
 - Students develop and present a pitch for an adaptive manufacturing venture, policy intervention, or research program
@@ -396,6 +468,11 @@ No specific technical background required. The seminar assumes intellectual curi
 The secular discourse on automation asks: how do we maximize output while minimizing labor cost? Catholic Social Teaching asks: how do we design systems where work remains meaningful, where workers retain dignity, where technology serves human flourishing rather than subordinating it?
 
 These are not the same optimization target. They produce different factories.
+
+**Optional Viewing:**
+- [*Modern Times*](https://www.imdb.com/title/tt0027977/) (1936)—Chaplin's silent comedy on industrialization and human dignity; funny, sad, and still relevant
+- [*Dorothy Day: Don't Call Me a Saint*](https://www.imdb.com/title/tt0795373) (2005)—the Catholic Worker movement's vision of work, dignity, and community ([trailer](https://www.youtube.com/watch?v=RKiLCDaCAO))
+- [*The Letter: A Message for Our Earth*](https://www.imdb.com/title/tt22660470/) (2022)—documentary on *Laudato Si'* featuring voices from around the world ([free on YouTube](https://www.youtube.com/watch?v=Rps9bs85BII))
 
 **Exercise:**
 Redesign a manufacturing cell—or a network of cells—with subsidiarity, dignity, and stewardship as primary constraints rather than throughput and cost. What changes? What stays the same?
