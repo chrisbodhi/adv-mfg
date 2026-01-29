@@ -3,7 +3,8 @@
     "allow": [
       "Bash(gh api:*)",
       "WebFetch(domain:chrisbodhi.github.io)",
-      "Bash(gh run view:*)"
+      "Bash(gh run view:*)",
+      "Bash(zola build:*)"
     ]
   }
 }
