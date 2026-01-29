@@ -424,13 +424,21 @@ No specific technical background required. The seminar assumes intellectual curi
 - [*General Magic*](https://www.imdb.com/title/tt6849786) (2018)—documentary on the company that invented the smartphone and failed; narrative, timing, and why being right isn't enough
 - [*Print the Legend*](https://www.imdb.com/title/tt3557464/) (2014)—documentary on the 3D printing hype cycle; a case study in how narratives form and collapse
 
-**Final project:**
-- Students develop and present a pitch for an adaptive manufacturing venture, policy intervention, or research program
-- Emphasis on narrative clarity, theoretical grounding, and practical viability
+---
+
+## Final Project
+
+Develop and present a pitch for an adaptive manufacturing venture, policy intervention, or research program.
+
+Emphasis on narrative clarity, theoretical grounding, and practical viability.
+
+**Note:** Week 16's moral economy framework (subsidiarity, dignity, stewardship) is optional but encouraged as a lens for refining your pitch. You can complete your initial project after Week 15, then optionally incorporate Week 16's perspectives.
 
 ---
 
 ## Unit 6: The Moral Economy of Making (Week 16)
+
+*This unit is optional but recommended—it offers a different optimization target for thinking about manufacturing systems.*
 
 ### Week 16: What Is Manufacturing For?
 
@@ -476,6 +484,8 @@ These are not the same optimization target. They produce different factories.
 
 **Exercise:**
 Redesign a manufacturing cell—or a network of cells—with subsidiarity, dignity, and stewardship as primary constraints rather than throughput and cost. What changes? What stays the same?
+
+If you completed your final project pitch after Week 15, consider how these constraints might reshape your proposal.
 
 ---
 
